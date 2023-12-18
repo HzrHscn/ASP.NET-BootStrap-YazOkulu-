@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\bin\Debug\EntityLayerFramework.dll
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\bin\Debug\EntityLayerFramework.pdb
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\obj\Debug\EntityLayerFramework.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\obj\Debug\EntityLayerFramework.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\obj\Debug\EntityLayerFramework.dll
+C:\Users\LENOVO\source\repos\YazOkuluDersler\EntityLayerFramework\obj\Debug\EntityLayerFramework.pdb

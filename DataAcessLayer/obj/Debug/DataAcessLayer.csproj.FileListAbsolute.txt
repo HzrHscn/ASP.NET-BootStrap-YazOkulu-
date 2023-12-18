@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\bin\Debug\EntityLayerFramework.dll
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\bin\Debug\EntityLayerFramework.pdb
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\LENOVO\source\repos\YazOkuluDersler\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
